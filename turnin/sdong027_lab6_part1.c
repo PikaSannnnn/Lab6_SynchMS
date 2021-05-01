@@ -1,4 +1,4 @@
-/*	Author: Stephen Dong
+/*	Author: sdong027
  *  Partner(s) Name: 
  *	Lab Section:
  *	Assignment: Lab #6  Exercise #1
