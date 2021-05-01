@@ -1,8 +1,8 @@
 /*	Author: Stephen Dong
  *  Partner(s) Name: 
  *	Lab Section:
- *	Assignment: Lab #6  Exercise #2
- *	Exercise Description: [optional - include for your own benefit]
+ *	Assignment: Lab #6  Exercise #3
+ *	Exercise Description: Demo: https://www.youtube.com/watch?v=bAcDZ7UDNY0
  *
  *	I acknowledge all content contained herein, excluding template or example
  *	code, is my own original work.
