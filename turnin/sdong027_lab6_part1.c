@@ -2,7 +2,8 @@
  *  Partner(s) Name: 
  *	Lab Section:
  *	Assignment: Lab #6  Exercise #1
- *	Exercise Description: Demo: https://www.youtube.com/watch?v=pZ-tNajHszk
+ *	Exercise Description: 
+ *	Demo Link: https://www.youtube.com/watch?v=pZ-tNajHszk	
  *
  *	I acknowledge all content contained herein, excluding template or example
  *	code, is my own original work.
